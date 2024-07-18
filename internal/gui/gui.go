@@ -1,7 +1,8 @@
 package gui
 
 import (
-	"github.com/mahalle-pratik/go-terminal-ai/internal/terminal"
+	"go-terminal-ai/internal/terminal"
+
 	"github.com/rivo/tview"
 )
 
